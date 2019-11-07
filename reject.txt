@@ -1,2 +1,4 @@
 developing on master branch.
 THis should get rejected on push back to server
+
+Now it should
